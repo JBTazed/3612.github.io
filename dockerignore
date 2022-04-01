@@ -1,0 +1,16 @@
+# Editor crud files
+*~
+\#*#
+.#*
+.vscode
+.idea
+.git
+
+# Auto-generated files
+node_modules
+
+# User configuration
+/db
+/config/config.js
+
+Dockerfile
